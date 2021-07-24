@@ -2,7 +2,7 @@
 int main()
 {
  int i;
- printf("This is designed by Avi Goyal  ");
+ printf("This is designed by krishna  ");
  printf("In for loop");
  for(i=0; i<=7; i++)
  {
