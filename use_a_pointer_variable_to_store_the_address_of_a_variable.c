@@ -3,7 +3,7 @@ int main()
 {
  int i=8;
  int *j;
- printf("This is designed by Avi Goyal \n");
+ printf("This is designed by krishna \n");
  j=&i;
  
  printf("Value of i is %d \n",i);
