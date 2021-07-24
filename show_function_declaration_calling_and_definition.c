@@ -3,7 +3,7 @@ void message(); /*function prototype declaration*/
 int main()
 {
  message(); /*function call*/
- printf("This is designed by Avi Goyal \n");
+ printf("This is designed by krishna \n");
  printf("Cry,and you stop monotony! \n");
  return 0;
 }
